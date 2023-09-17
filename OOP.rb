@@ -74,6 +74,7 @@ if __FILE__ == $PROGRAM_NAME
     bush = RaspberryBush.new(5)
     human = Human.new("Nikita")
     human.work!
+    
     human.harvest
     human.work!
     human.harvest
